@@ -1,0 +1,11 @@
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\bin\Debug\CG_Lab1V2.exe.config
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\bin\Debug\CG_Lab1V2.exe
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\bin\Debug\CG_Lab1V2.pdb
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.csproj.AssemblyReference.cache
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.Form1.resources
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.Properties.Resources.resources
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.csproj.GenerateResource.cache
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.csproj.CoreCompileInputs.cache
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.exe
+C:\Users\dns\source\repos\CG_Lab1V2\CG_Lab1V2\obj\Debug\CG_Lab1V2.pdb
